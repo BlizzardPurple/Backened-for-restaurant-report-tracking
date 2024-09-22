@@ -98,5 +98,5 @@ This project shows how we can build a flexible API system for monitoring restaur
 Let me know if you have any questions or if something isn’t clear!
 
 Garvit Jain
-Blizzard_Purple
+BlizzardPurple
 garvitrita2002@gmail.com
