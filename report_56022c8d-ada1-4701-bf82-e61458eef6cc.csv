@@ -1,0 +1,3 @@
+store_id,uptime_last_hour,uptime_last_day,uptime_last_week,downtime_last_hour,downtime_last_day,downtime_last_week
+1,0.0,240.0,240.0,0.0,420.0,5160.0
+2,0.0,0.0,0.0,0.0,540.0,4680.0
